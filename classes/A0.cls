@@ -2,14 +2,13 @@ public Class A0
 {
 public Account createAccount(String name)  //method to create account
 {
-//Test
-Account a001211= new Account();
+//Modify
+Account ad1211= new Account();
 
-a001211.Name = name;
-//
-return a001211;
-//Add comment for Account A1
-//
-//test diff check pradeep pradeep
+ad1211.Name = name;
+//Modify111111145123111
+//maven4 Modify skippped
+return ad1211;
+//sai
 }
 }

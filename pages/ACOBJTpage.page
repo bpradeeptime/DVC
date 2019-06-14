@@ -1,0 +1,6 @@
+<apex:page standardController="ACOBJT1__c">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations1</h1>
+  This is your new Page12
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
